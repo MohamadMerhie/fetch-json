@@ -4,30 +4,30 @@
     "firstName": "Mohamad",
     "lastName": "Merhi",
     "city": "Hannover",
-    "age": "32",
+    "age": 32,
   },
   {
     "firstName": "Eli",
     "lastName": "Bell",
     "city": "Hamburg",
-    "age": "22",
+    "age": 22,
   },
   {
     "firstName": "Zak",
     "lastName": "Zuk",
     "city": "Berlin",
-    "age": "27",
+    "age": 27,
   },
   {
     "firstName": "Peter",
     "lastName": "Müller",
     "city": "Dortmund",
-    "age": "30",
+    "age": 30,
   },
   {
     "firstName": "Ali",
     "lastName": "Jesse",
     "city": "Bremen",
-    "age": "26",
-  },
+    "age": 26,
+  }
 ]
